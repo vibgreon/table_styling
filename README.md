@@ -1,4 +1,4 @@
-# premium garbej a misconception
+# premium garbej: a misconception
 
 ## Steps to solve tabular structure problem
 - See the exact data fetched from OpenAI's API
