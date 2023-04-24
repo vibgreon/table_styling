@@ -14,7 +14,7 @@ body {
 }
 
 table {
-    marginp: 0px 15px;
+    margin: 15px 0px;
     max-width: 1080px;
     border-spacing: 0px;
 }
